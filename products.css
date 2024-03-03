@@ -1,0 +1,47 @@
+
+Product { 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+}
+Items { 
+    display: grid; 
+    grid-template-columns: auto auto auto auto;
+    
+}
+Item { 
+    display: flex; 
+    flex-direction: column;
+    border: solid #000000 3px; 
+    min-width: 200px; 
+    min-height: 200px; 
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 20px; 
+}
+Item:hover { 
+    background-color: #758467;
+    color: white; 
+}
+Name { 
+    font-weight: bolder;
+    font-size: 18px;
+    margin: 10px; 
+    color: #14452F; 
+}
+Description::before { 
+    content: "Desc:"; 
+}
+Description { 
+    margin: 10px; 
+}
+Price { 
+    margin: 10px; 
+}
+Categories { 
+    margin: 0px 10px 10px; 
+    display: flex;
+    flex-direction: column;
+}

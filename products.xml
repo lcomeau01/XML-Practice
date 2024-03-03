@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "products.css" ?>
+
+
+<Product>
+    <Items>
+        <Item name="Oversized Queen Graphic Tee">
+            <Name> Oversized Queen Graphic Tee </Name>
+            <Price> $34.95 </Price>
+            <Description> Oversized T-shirt with Queen Logo </Description>
+            <Categories>
+                <Category> Women's Clothes </Category>
+                <Category> Graphic Tees </Category>
+                <Category> Band Tees </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Oversized Rolling Stones Graphic Tee">
+            <Name> Oversized Rolling Stones Graphic Tee </Name>
+            <Description> Oversized T-shirth with Rolling Stones Logo </Description>
+            <Price> $34.95 </Price>
+            <Categories>
+                <Category> Women's Clothes </Category>
+                <Category> Graphic Tees </Category>
+                <Category> Band Tees </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Cropped Smiley Graphic Tee">
+            <Name> Cropped Smiley Graphic Tee </Name>
+            <Description> Cropped T-shirt with a Smiley Face on it </Description>
+            <Price> $34.95 </Price>
+            <Categories>
+                <Category> Women's Clothes </Category>
+                <Category> Graphic Tees </Category>
+                <Category> Cropped Tees </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Crew Neck Fleece Sweatshirt">
+            <Name> Crew Neck Fleece Sweatshirt </Name>
+            <Description> Comfy Fleece Sweatshirt With Slightly Oversized Fit </Description>
+            <Price> $49.95 </Price>
+            <Categories>
+                <Category> Women's Clothes </Category>
+                <Category> Crew Neck </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Fleece Hoodie">
+            <Name> Fleece Hoodie </Name>
+            <Description> Comfy Fleece Hoodie with Heavy Fabric and Feel </Description>
+            <Price> $59.95 </Price>
+            <Categories>
+                <Category> Women's Clothes </Category>
+                <Category> Hoodies </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Men's Fleece Hoodie">
+            <Name> Men's Fleece Hoodie </Name>
+            <Description> Comfy Fleece Hoodie with Heavy Fabric and Feel </Description>
+            <Price> $69.95 </Price>
+            <Categories>
+                <Category> Men's Clothes </Category>
+                <Category> Hoodies </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Fleece Polo Sweatshirt">
+            <Name> Fleece Polo Sweatshirt </Name>
+            <Description> Polo With Oversized Longsleeves and lined with Fleece </Description>
+            <Price> $35.95 </Price>
+            <Categories>
+                <Category> Men's Clothes </Category>
+                <Category> Polos </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Sweater Polo Shirt">
+            <Name> Sweater Polo Shirt </Name>
+            <Description> Short Sleeve Polo made of Sweater Material </Description>
+            <Price> $44.95 </Price>
+            <Categories>
+                <Category> Men's Clothes </Category>
+                <Category> Polos </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Button-up Sweater Polo Shirt">
+            <Name> Button-up Sweater Polo Shirt </Name>
+            <Description> A Polo Made of Sweater material that Buttons Up in the Front </Description>
+            <Price> $44.95 </Price>
+            <Categories>
+                <Category> Men's Clothes </Category>
+                <Category> Polos </Category>
+            </Categories>
+        </Item>
+
+        <Item name="Flece Shirt Jacket">
+            <Name> Fleece Shirt Jacket </Name>
+            <Description> A Shacket made of Fleece and Cotton </Description>
+            <Price> $59.95 </Price>
+            <Categories>
+                <Category> Men's Clothes </Category>
+                <Category> Jackets </Category>
+            </Categories>
+        </Item>
+    </Items>
+</Product>

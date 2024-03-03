@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+</head>
+<body>
+    <script>
+        products = [
+            { 
+                Name: "Oversized Queen Graphic Tee", 
+                Price: "$34.95",
+                Categories: ["Women's Clothes", "Graphic Tees", "Band Tees"]
+            }, 
+            { 
+                Name: "Oversized Rolling Stones Graphic Tee", 
+                Price: "$34.95",
+                Categories: ["Women's Clothes", "Graphic Tees", "Band Tees"]
+            }, 
+            { 
+                Name: "Cropped Smiley Graphic Tee", 
+                Price: "$34.95",
+                Categories: ["Women's Clothes", "Graphic Tees", "Cropped Tees"]
+            }, 
+            { 
+                Name: "Crew Neck Fleece Sweatshirt", 
+                Price: "$49.95",
+                Categories: ["Women's Clothes", "Crew Neck"]
+            }, 
+            { 
+                Name: "Fleece Hoodie", 
+                Price: "$59.95",
+                Categories: ["Women's Clothes", "Hoodies"]
+            }, 
+            { 
+                Name: "Men's Fleece Hoodie", 
+                Price: "$69.95",
+                Categories: ["Men's Clothes", "Hoodies"]
+            }, 
+            { 
+                Name: "Fleece Polo Sweatshirt", 
+                Price: "$35.95",
+                Categories: ["Men's Clothes", "Polos"]
+            }, 
+            { 
+                Name: "Sweater Polo Shirt", 
+                Price: "$44.95",
+                Categories: ["Men's Clothes", "Polos"]
+            }, 
+            { 
+                Name: "Button-up Polo Shirt", 
+                Price: "$44.95",
+                Categories: ["Men's Clothes", "Polos"]
+            }, 
+            { 
+                Name: "Fleece Shirt Jacket", 
+                Price: "$59.95",
+                Categories: ["Men's Clothes", "Jackets"]
+            }
+        ]
+
+        for (let i = 0; i < products.length; i++) { 
+            strProducts = JSON.stringify(products[i]); 
+            document.write("<p>" + strProducts + "</p>"); 
+        }
+    </script>
+</body>
+</html>
