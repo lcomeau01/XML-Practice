@@ -1,7 +1,7 @@
 # 🛍️ XML Product Catalog
 
 A simple, styled XML document showcasing a product catalog for practice with parsing, writing, and styling XML data.
-## STYLES ONLY WORK ON DESKTOP -- NOT MOBILE RESPONSIVE ##
+### STYLES ONLY WORK ON DESKTOP -- NOT MOBILE RESPONSIVE ###
 
 ## Purpose
 
